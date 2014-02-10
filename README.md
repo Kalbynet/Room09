@@ -1,4 +1,5 @@
 Room09
 ======
 
-Translation of theme
+Translation of theme Room09.
+English -> Swedish
